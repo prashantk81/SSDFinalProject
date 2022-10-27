@@ -1,0 +1,38 @@
+*{
+    box-sizing: border-box;
+    background-color: rgb(175, 206, 206);
+}
+.main{
+    margin-left: 25%;
+    padding: 20px;
+}
+.line{
+    width: 40%;
+}
+.div2{
+    padding-bottom: 20px;
+}
+.form-control{
+    background-color: rgb(213, 213, 213);
+    margin-left: 30px;
+}
+.buttonAdd{
+    background-color: green;
+    width: 100px;
+    height: 50px;
+    border-radius: 10px;
+}
+.submitBT{
+    margin-left: 30%;
+    margin-bottom: 30px;
+    width: 170px;
+    height: 60px;
+    border-radius: 10px;
+    font-size: 26px;
+    text-align: center;
+    padding-top: 10px;
+    background: linear-gradient(#b8acbe,#043156);
+}
+.pop{
+    background-color: rgb(135, 113, 113);
+}

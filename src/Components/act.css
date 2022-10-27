@@ -1,0 +1,25 @@
+.st_col{
+    padding-bottom: 20px;
+}
+.services{
+    /* border: 2px green solid; */
+    background-color: rgb(101, 135, 137);
+    margin-right: 40%;
+    margin-bottom: 20px;
+    padding: 14px;
+}
+
+.int{
+    display: flex;
+}
+.duration{
+    margin-left: 50px;
+}
+.remove{
+    background-color: rgb(236, 54, 54);
+    width: 100px;
+    height: 50px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    margin-left: 40%;
+}
